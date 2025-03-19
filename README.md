@@ -1,2 +1,2 @@
-# SistemaBancarioV1
-Sistema Bancário Básico
+# SistemaBancario
+Versão 1
